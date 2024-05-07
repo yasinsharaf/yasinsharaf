@@ -10,7 +10,7 @@ Connect with me:
 <a href="https://www.hackerrank.com/profile/ysharaf998"><img align="center" src="https://github.com/yasinsharaf/yasinsharaf/blob/main/Images/HackerRank.png" alt="Yasin Sharaf | LinkedIn" width="21px"/></a>
 
  ## Projects
- - **Bike Sales (Enterprise Data Analytics):** [Link](https://github.com/yasinsharaf/Bike-Sales-Enterprise-Data-Analytics-)
+ - **Bike Sales Analytics - Using Enterprise Data Models:** [Link](https://github.com/yasinsharaf/Bike-Sales-Enterprise-Data-Analytics-)
 
 ## Certifications
 

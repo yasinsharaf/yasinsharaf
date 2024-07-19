@@ -1,5 +1,3 @@
-![Header](https://github.com/yasinsharaf/yasinsharaf/blob/main/Images/header.png)
-
 ## About Me
 
 Data Engineer and Business Intelligence Developer with a background in information systems suited for enterprise data. Passionate about keeping up to date with emerging, powerful technologies which extract usable insights from big data.
